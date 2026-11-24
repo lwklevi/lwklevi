@@ -1,6 +1,6 @@
 ‣ Levi
    - I code C++, Haxe, Lua, JavaScript, etc.
-    - I use Unreal Engine, Godot, VSCode // Other Things I use Adobe Animate
+   - I use Unreal Engine, Godot, VSCode // Other Things I use Adobe Animate
      - Fan of Friday Night Funkin, Roblox, Minecraft, DDLC, Resident Evil, Persona,
       - Things I'm working on:
 
