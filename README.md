@@ -1,4 +1,4 @@
-- Levi or kadexd (whatever lowk) 
+- Levi
 - I code C++, Haxe, Lua, JavaScript, etc.
 - I use Unreal Engine, Godot, VSCode // Other Things I use Adobe Animate
 - I enjoy Friday Night Funkin, Roblox, Minecraft, DDLC, Resident Evil, Persona,
